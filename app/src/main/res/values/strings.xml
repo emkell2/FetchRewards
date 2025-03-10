@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SampleList</string>
+    <string name="initial_screen_button_text">Show sorted list</string>
+
+    <string name="list_screen_section_header_text">List %1$d</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_empty_list">There are no items to show.</string>
+    <string name="error_generic">There was an issue fetching your data, please try again.</string>
+    <string name="error_no_network">Could not detect an internet connection. Check your connection and try again.</string>
+    <string name="error_network">There was an issue with your network connection. Please check your connection and try again.</string>
+    <string name="error_dialog_ok_btn_text">OK</string>
+</resources>
